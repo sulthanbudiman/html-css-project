@@ -1,0 +1,5 @@
+
+.kalimat {
+    display: inline-block; /* Mengubah tampilan elemen menjadi inline-block */
+    margin-right: 20px; /* Atur jarak horizontal antara kalimat */
+}
